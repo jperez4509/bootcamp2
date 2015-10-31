@@ -118,6 +118,9 @@ body.theme.home .location {
 body.links {
   font-weight: 100;
 }
+body.links nav {
+	font-weight: 400;
+}
 body.links .link-list ul {
   font-size: 1.7em;
 }
